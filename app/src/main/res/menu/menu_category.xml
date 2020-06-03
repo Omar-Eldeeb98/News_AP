@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/general_item"
+        android:icon="@drawable/ic_home"
+        app:showAsAction="ifRoom"
+        android:title="اخبار متنوعة"/>
+
+
+
+    <item android:id="@+id/technology_item"
+        android:title="تكنولوجيا"/>
+
+
+
+    <item android:id="@+id/entertainment_item"
+        android:title=" فن و ترفيه"/>
+
+
+    <item android:id="@+id/health_item"
+        android:title="صحة "/>
+
+
+    <item android:id="@+id/science_item"
+        android:title="علوم "/>
+
+
+    <item android:id="@+id/sports_item"
+        android:title="رياضة"/>
+
+
+
+
+</menu>
